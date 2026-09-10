@@ -53,7 +53,7 @@ Key KPIs include:
 - **Total Purchase Spend:** 410.65M
 - **Shipment On-Time Rate:** 85.87%
 
-![Executive Overview](Executive_Overview.png)
+![Executive Overview](Executive_Overveiw.png)
 
 ### 2. Inventory Intelligence
 
@@ -93,7 +93,7 @@ The page also compares supplier spend, supplier on-time performance, rejection r
 
 - `data_Analysis (1).ipynb` — Python data preparation and analysis notebook
 - `Supply_Chain_analytics.pbix` — Interactive Power BI report
-- `Executive_Overview.png` — Executive dashboard screenshot
+- `Executive_Overveiw.png` — Executive dashboard screenshot
 - `Inventory_Intelligence.png` — Inventory dashboard screenshot
 - `Supplier_Logistics.png` — Supplier and logistics dashboard screenshot
 
